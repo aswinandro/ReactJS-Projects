@@ -1,3 +1,10 @@
+#Demo ||  Deployed App
+
+http://amazon-clone-and.s3-website.ap-south-1.amazonaws.com/
+
+Learn - Firebase || NPM || React- JS || Expressjs || Cors || Promise || Context API || CSS || In depth using this Clone
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
